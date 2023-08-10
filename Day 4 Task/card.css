@@ -1,0 +1,49 @@
+div {
+
+    height: 550px;
+    width: 400px;
+    border: 2;
+    background-color: #fff;
+    position: absolute;
+    left: 580px;
+    top: 100px;
+    box-shadow: skyblue;
+    border-color: black;
+    border-style: solid;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    box-shadow: rgba(0, 0, 0, 0.56) 0px 22px 70px 4px;
+}
+
+body {
+
+    background-color: #rgb(128,134,139);
+
+}
+
+img {
+
+    height: 200px;
+    width: 300px;position: relative;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: rgb(128,134,139);
+    color: rgb(128,134,139);
+}
+
+li {
+
+    padding: 5px;
+    
+}
+
+.price {
+
+    position: relative;
+    left: 60px;
+    top: 10px;
+    font-size: larger;
+    font-weight: bold;
+    
+    
+}
