@@ -1,0 +1,167 @@
+
+h1 {
+
+	color: #ffc107;
+	padding-bottom: 10px;
+	position: relative;
+	bottom: 10px;
+	left: 700px;
+	text-decoration-line: underline;
+
+}
+
+body {
+
+	font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+	background-color: #451C74;
+	color: white;
+}
+
+Table {
+
+	align-items: center;
+	justify-items: center;
+	align-content: center;
+	background-color:#916dcb;
+	color: white;
+	box-align: center;
+	text-align: center;
+	
+}
+
+h2 {
+
+	
+	color: #ffc107;
+
+}
+
+h3{
+
+	color: #ffc107;
+}
+
+th {
+
+	background-color: #451C74;
+	color: #ffc107;
+}
+
+b {
+
+	color: #ffc107;
+}
+
+ul {
+
+	list-style-image: url(tick.png);
+}
+
+
+.GitHub {
+
+	color: #ffc107;
+	text-decoration: none;
+	position: relative;
+	left: 380px;
+	top: 2px;
+}
+
+.LinkedIN {
+
+	color: #ffc107;
+	text-decoration: none;
+	position: relative;
+	right: 380px;
+	top: 2px;
+}
+
+a {
+
+	color: white;
+	text-decoration: none;
+}
+
+a:hover {
+
+	color: blue;
+	
+}
+
+a:visited {
+
+	color: blue;
+}
+
+div {
+
+	position: absolute;
+	background-color: white;
+	height: 140px;
+	width: 140px;
+	right: 780px;
+	border-style: solid;
+	position: relative;
+	Top: 100px;
+
+}
+
+div:hover {
+
+	color: #ffc107 ;
+
+}
+
+.pic {
+
+	position: absolute;
+	left: -2px;
+	bottom: 2px;
+}
+
+
+.place {
+
+	position: relative;
+	top: 90px;
+}
+
+.date {
+
+	position: relative;
+	top:90px;
+
+}
+
+.cv {
+	
+	text-decoration: underline;
+}
+
+.imagebox {
+
+	height: 180px;
+	width: 180px;
+	position: absolute;
+	left: 755px;
+	background-color: #916dcb;
+}
+
+.imagebox:hover {
+
+	color: #ffc107;
+	background-color: #ffc107;
+	
+	
+}
+
+.pic {
+
+	height: 150px;
+	width: 150px;
+	position: relative;
+	left: 552px;
+	top: 15px;
+
+
+}
